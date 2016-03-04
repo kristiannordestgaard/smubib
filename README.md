@@ -1,6 +1,6 @@
 # smubib
 
-This will let you convert Google Spreadsheet data to BibTeX files.
+This will let you convert Google Spreadsheet data to BibTeX files. The original code is by sjohnson from Freenode.
 
 ##Example use
 
@@ -12,5 +12,4 @@ This will let you convert Google Spreadsheet data to BibTeX files.
 You'll need `Text::CSV`. Install it with (on Ubuntu): 
 
 	sudo cpan Text::CSV
-
 
