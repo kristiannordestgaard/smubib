@@ -1,5 +1,6 @@
 ###############################################################################################
 # sjohnson from Freenode originally gave a proof of concept for this project written in Perl. #
+# This work is released under the MIT License: https://opensource.org/licenses/MIT       	  #
 ###############################################################################################
 
 #!/usr/bin/perl
